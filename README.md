@@ -1,7 +1,3 @@
-Certainly! Below is the README.md file content for your GitHub project:
-
----
-
 # GPT Clone using Mistral
 
 This project demonstrates how to create a conversational interface using the Mistral language model. Mistral is a powerful tool for generating human-like text responses based on given prompts.
