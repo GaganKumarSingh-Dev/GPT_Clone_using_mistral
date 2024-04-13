@@ -2,7 +2,7 @@ import requests
 import json
 import gradio
 
-url = "http://localhost:11434/api/generate"
+url = "http://localhost:11434/api/generate"  # Change localhost to host.docker.internal
 
 headers = {
     'Content-Type': 'application/json'
