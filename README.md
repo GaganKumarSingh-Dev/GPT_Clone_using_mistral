@@ -1,6 +1,6 @@
 # GPT Clone using Mistral
 
-This project demonstrates how to create a conversational interface using the Mistral language model. Mistral is a powerful tool for generating human-like text responses based on given prompts.
+This project is all about having a chatbot right on your own computer! We've got Mistral, a super-smart language model, running locally, so you can have conversations anytime, anywhere, without needing the internet. It's like having your own personal chat companion, just for you. You type in something, Mistral thinks about it, and bam! You've got a response. It's like magic, but with words. So go ahead, chat away and see what fun conversations you can have!
 
 ## Installation
 
