@@ -54,6 +54,10 @@ Once the application is running, navigate to the provided URL (typically `http:/
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
+## Screenshot of project
+
+![Screenshot 2024-04-13 235419](https://github.com/GaganKumarSingh-Dev/GPT_Clone_using_mistral/assets/154595655/d758d179-398e-4814-987c-ad367a2ed9b7)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
